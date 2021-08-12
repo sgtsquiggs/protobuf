@@ -1,3 +1,3 @@
-module github.com/golang/protobuf
+module github.com/sgtsquiggs/protobuf
 
 go 1.9
